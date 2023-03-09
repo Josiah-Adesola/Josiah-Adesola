@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 [![Josiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josiah-Adesola)](https://github.com/Josiah-Adesola/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josiah-Adesola&hide_progress=true)](https://github.com/Josiah-Adesola/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josiah-Adesola&hide_progress=false)](https://github.com/Josiah-Adesola/github-readme-stats)
