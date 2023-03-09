@@ -8,7 +8,21 @@
 Josiah-Adesola/Josiah-Adesola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+------------------------------------------------------------------------
+
+# My Stats
 [![Josiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josiah-Adesola)](https://github.com/Josiah-Adesola/github-readme-stats)
 
+--------------------------------------------------
+
+# Check out my top language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josiah-Adesola&hide_progress=false)](https://github.com/Josiah-Adesola/github-readme-stats)
+
+-----------------------------------------------------------
+
+# Wakatime Stats
+[![Josiah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Josiah-Adesola)](https://github.com/Josiah-Adesola/github-readme-stats)
+
+----------------------------------------------------
