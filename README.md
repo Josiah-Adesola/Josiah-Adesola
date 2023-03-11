@@ -20,9 +20,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josiah-Adesola&hide_progress=false)](https://github.com/Josiah-Adesola/github-readme-stats)
 
------------------------------------------------------------
-
-# Wakatime Stats
-[![Josiah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Josiah-Adesola)](https://github.com/Josiah-Adesola/github-readme-stats)
 
 ----------------------------------------------------
